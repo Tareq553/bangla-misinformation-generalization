@@ -1,0 +1,3 @@
+n,accuracy,macro_precision,macro_recall,macro_f1,fake_f1,real_f1,roc_auc,model,direction
+600,0.675,0.7365184484389782,0.675,0.652397122917725,0.5637583892617449,0.7410358565737052,0.7532777777777778,TFIDF_word+char_LinearSVM,BanglaFakeNews2025_to_BanFakeNews2_official_test
+600,0.765,0.8164850913626773,0.765,0.7550375116907334,0.7056367432150313,0.8044382801664355,0.8371666666666667,csebuetnlp/banglabert,BanglaFakeNews2025_to_BanFakeNews2_official_test
